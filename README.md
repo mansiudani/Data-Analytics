@@ -1,4 +1,4 @@
-# Data-Analytics
+# Predicting the state Start up Companies  
 Introduction : 
 All startups begin with a great idea which with time turns into a great hypothesis. Most of the innovators and entrepreneurs attempt to establish a business which leads to failure. Entrepreneurs understand the key factors involved in creating a successful company are skill, idea, knowledge, market scenario but the most important factor is funds. There are different kinds of funds like Seed funding, Angel investors, Silent investors and many more. Our work here is to predict if the startup status which is operating, acquired or closed.
 
